@@ -5,7 +5,7 @@ import React from 'react';
 export default function Header() {
   return (
     <div>
-      <h1>Hello World development</h1>
+      <h1>Hello World developments</h1>
     </div>
   );
 }
